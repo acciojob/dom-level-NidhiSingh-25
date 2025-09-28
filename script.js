@@ -7,4 +7,4 @@ while(element)
 		element=element.parentElement;
 	}
 
-console.log("The level of the element is: " n);
+alert("The level of the element is: " + n);
